@@ -89,7 +89,7 @@ const LandingPage = () => {
             </UrlLink>{" "}
             or{" "}
             <UrlLink
-              href="https://skule.ca/page.php?q=elections"
+              href="https://skule.ca/get-involved/elections.html"
               target="_blank"
               rel="noopener noreferrer"
             >
